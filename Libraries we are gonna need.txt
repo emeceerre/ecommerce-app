@@ -2,3 +2,4 @@ npm i react-router-dom
 
 npm i react-hook-form
 
+También vamos a usar Code Rabbit que es un IA code reviwer.
