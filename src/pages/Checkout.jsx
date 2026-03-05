@@ -70,7 +70,7 @@ export default function Checkout() {
             <h2 className="checkout-section-title">Total</h2>
             <div className="checkout-total">
               <p className="checkout-total-label">Subtotal:</p>
-              <p className="chackout-total-value">${total.toFixed(2)}</p>
+              <p className="checkout-total-value">${total.toFixed(2)}</p>
             </div>
             <div className="checkout-total">
               <p className="checkout-total-label">Total:</p>
